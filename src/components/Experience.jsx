@@ -103,7 +103,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                  'https://marvellinus-vincent-resume.netlify.app/Resume.pdf',
+                  'https://marvellinus-vincent-portfolio.onrender.com/Resume.pdf',
                   '_blank'
                 )
               }
